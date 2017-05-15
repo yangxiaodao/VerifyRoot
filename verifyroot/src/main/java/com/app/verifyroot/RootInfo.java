@@ -30,7 +30,7 @@ public class RootInfo implements Serializable {
         } else if (!mBinaryIssue) {
             return false;
         } else {
-            return true;
+            return false;
         }
     }
 
