@@ -7,17 +7,18 @@
 
 **step 1**
 
-    	allprojects {
-    		repositories {
-    			...
-    			maven { url 'https://jitpack.io' }
-    		}
-    	}
+    allprojects {
+        repositories {
+            ...
+            maven { url 'https://jitpack.io' }
+        }
+    }
 
 **step 2**
     
-       compile 'com.github.yangxiaodao:VerifyRoot:Last Release'
+    compile 'com.github.yangxiaodao:VerifyRoot:Last Release'
        
-#####Tips
+##### Tips
 
-当前最新版本：0.01
+    // 当前最新版本 0.01
+    compile 'com.github.yangxiaodao:VerifyRoot:0.01'
