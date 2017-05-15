@@ -20,5 +20,5 @@
        
 ##### Tips
 
-    // 当前最新版本 0.01
+    // 当前最新版本 0.02
     compile 'com.github.yangxiaodao:VerifyRoot:0.02'
